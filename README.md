@@ -29,16 +29,17 @@ An **E-Commerce Platform** built using **Spring Boot** and a **Microservices Arc
 
 The application is divided into the following microservices:
 
-1. **User Service**: Handles user registration, authentication, and profile management.
-2. **Product Service**: Manages product catalog, categories, and inventory.
-3. **Cart Service**: Manages shopping cart functionality.
-4. **Order Service**: Handles order creation, payment processing, and order tracking.
-5. **Payment Service**: Integrates with third-party payment gateways.
-6. **Notification Service**: Sends emails, SMS, or push notifications.
-7. **Recommendation Service**: Provides product recommendations.
-8. **API Gateway**: Acts as a single entry point for all client requests.
-9. **Service Discovery**: Uses Netflix Eureka for service registration and discovery.
-10. **Config Server**: Centralized configuration management using Spring Cloud Config.
+1. **[User Service](https://github.com/eric-muganga/ecommerce-user-service)**: Handles user registration, authentication, and profile management.
+2. **[Product Service](https://github.com/eric-muganga/ecommerce-product-service)**: Manages product catalog, categories, and inventory.
+3. **[Cart Service](#)**: Manages shopping cart functionality. *(Repo not linked yet)*
+4. **[Order Service](https://github.com/IvanAndrau/ecommerce-order-service)**: Handles order creation, payment processing, and order tracking.
+5. **[Payment Service](https://github.com/IvanAndrau/ecommerce-payment-service)**: Integrates with third-party payment gateways.
+6. **[Notification Service](https://github.com/IvanAndrau/ecommerce-notification-service)**: Sends emails, SMS, or push notifications.
+7. **[Recommendation Service](#)**: Provides product recommendations. *(Repo not linked yet)*
+8. **[API Gateway](https://github.com/eric-muganga/ecommerce-api-gateway)**: Acts as a single entry point for all client requests.
+9. **[Service Discovery (Eureka Server)](https://github.com/eric-muganga/ecommerce-discovery-server)**: Uses Netflix Eureka for service registration and discovery.
+10. **[Inventory Service](https://github.com/IvanAndrau/ecommerce-inventory-service)**: Tracks product stock levels and notifies sellers.
+11. **Config Server**: Centralized configuration management using Spring Cloud Config. *(Repo not linked yet)*
 
 ---
 
