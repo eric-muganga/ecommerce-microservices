@@ -85,13 +85,13 @@ This project implements the following **industry-standard design patterns**:
 - **Spring Data JPA**: For database interactions.
 - **Docker**: For containerization.
 - **Kubernetes**: For orchestration and scaling.
-- **Kafka/RabbitMQ**: For asynchronous communication between services.
+- **Kafka**: For asynchronous communication between services.
 - **Redis**: For caching.
 - **Elasticsearch**: For advanced search functionality.
-- **PostgreSQL/MySQL**: For relational data storage.
+- **MySQL**: For relational data storage.
 - **MongoDB**: For NoSQL data storage.
-- **Swagger/OpenAPI**: For API documentation.
-- **Prometheus/Grafana**: For monitoring and visualization.
+- **Swagger**: For API documentation.
+- **Prometheus**: For monitoring and visualization.
 
 ---
 
